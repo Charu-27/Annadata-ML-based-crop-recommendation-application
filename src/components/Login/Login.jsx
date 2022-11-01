@@ -29,7 +29,7 @@ import './login.css'
     {window.alert('Invalid credential');}
     else
     {window.alert('Login successful');
-    window.location.href="/Home"}
+    window.location.href="https://annadata-frontend.herokuapp.com/"}
     
 
   }
